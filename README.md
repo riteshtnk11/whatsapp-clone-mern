@@ -3,6 +3,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Tech stack
+Frontend - React
+Backend - Node.js, Express.js, MongoDB
+Deployment - Firebase & heroku
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
