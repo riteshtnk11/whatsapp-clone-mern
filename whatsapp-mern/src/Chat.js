@@ -20,7 +20,7 @@ function Chat({ messages }) {
         "message": input,
         "name": "Ritesh",
         "timestamp": "just now",
-        "received": false 
+        "received": true 
     });
 
     setInput('');
